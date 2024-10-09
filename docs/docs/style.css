@@ -48,7 +48,7 @@ body {
 
 .contact, .skills, .hobbies {
     margin-top: 20px;
-    text-align: center; /* Rata tengah untuk teks di Contact , Skills dan Hobbies */
+    text-align: center; /* Rata tengah untuk teks di Contact dan Skills */
 }
 
 .contact p, .skills ul li, .hobbies ul li {
